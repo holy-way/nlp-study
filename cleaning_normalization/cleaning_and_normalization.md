@@ -8,9 +8,10 @@ Studying From https://wikidocs.net/217238
 Cleaning is conducted before and after tokenization.   
 It can be done through the projects.
 
-# 1. (normalization) Unifying words based on rules
+# 1. Unifying words based on rules - (normalization)
 ex)
 * USA = US
 * uh-huh = uhhuh
 
-# 2. (normalization) Unifying upper and lower case
+# 2. Unifying upper and lower case - (normalization)
+
