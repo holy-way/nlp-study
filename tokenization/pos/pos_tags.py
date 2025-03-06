@@ -1,3 +1,7 @@
+import nltk
+nltk.download('averaged_perceptron_tagger_eng')
+
+
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
 

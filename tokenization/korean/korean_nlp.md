@@ -28,9 +28,3 @@ Studying NLP From https://wikidocs.net/217237
 
 * 한국어는 수많은 코퍼스에서 띄어쓰기가 무시되는 경우가 많다
 * 한국어는 띄어쓰기가 잘 지켜지지 않으면 이해하기가 어렵다
-
-## Part-of-speech tagging
-
-* Same word can be used in various meanings.
-* The part-of-speech of the word is useful to understand the exact meaning in the senetence.
-
