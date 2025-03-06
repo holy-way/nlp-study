@@ -1,6 +1,10 @@
-# Difficulty of tokenizing Korean
+Studying NLP From https://wikidocs.net/217237
 
-## 1. '교착어'
+# Studying Korean NLP
+
+## Difficulty of tokenizing Korean
+
+### 1. '교착어'
 한국에는 조사가 존재 (가, 에게, 를, 와, 는)   
 같은 단어임에도 서로 다른 조사가 붙어서 서로 다른 단어로 인식   
 -> 힘들고 번거로워짐    
@@ -18,3 +22,15 @@
 		* 어미 
 		* 조사
 		* 어간
+
+
+### 2. 띄어쓰기
+
+* 한국어는 수많은 코퍼스에서 띄어쓰기가 무시되는 경우가 많다
+* 한국어는 띄어쓰기가 잘 지켜지지 않으면 이해하기가 어렵다
+
+## Part-of-speech tagging
+
+* Same word can be used in various meanings.
+* The part-of-speech of the word is useful to understand the exact meaning in the senetence.
+
