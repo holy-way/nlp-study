@@ -14,4 +14,18 @@ ex)
 * uh-huh = uhhuh
 
 # 2. Unifying upper and lower case - (normalization)
+* Positive Case
+	* Automobile = automobile
+In general cases, converting into lower cases helps normalization.
 
+* Negative Case
+	* US != us
+	* (United States) != we, us
+There are some cases, where upper case word have different meaning from lower case word.    
+Names of companies and people should be maintained as upper case word.    
+
+* Use Cases
+	* Set rules when not to convert
+	* Converting all to lower case might be useful
+
+# 3. Deleting not useful words - (cleaning)
