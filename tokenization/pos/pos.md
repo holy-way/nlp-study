@@ -1,3 +1,5 @@
+Studying NLP From https://wikidocs.net/217237
+
 ## Part-of-speech tagging
 
 * Same word can be used in various meanings.
@@ -16,7 +18,7 @@
 	* pos - tag the part-of-speech for each morphemes  
 	* nouns - extract only nouns
 
-'''
+```
 # Okt
 print('OKT 형태소 분석 : ',
 	okt.morphs(EX_SENTENCE))
@@ -37,4 +39,4 @@ print('꼬꼬마 품사 태깅 : ',
 print('꼬꼬마 명사 추출 : ',
 	kkma.nouns(EX_SENTENCE))
 
-'''
+```
