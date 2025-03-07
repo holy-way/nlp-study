@@ -20,3 +20,16 @@ Study Reference : https://wikidocs.net/217240
 | [ ] | match with one of the letters in the brackets. [amk] - match among a, m, k. Range can be set like [a-z]. [a-zA-Z] means total alphabet. |
 | [^letter] | match letter except the given letter |
 | l | Used like 'AlB' meaning A or B |
+
+* Rules used with '\'
+
+| Grammar | Meaning |
+| ----- | ----- |
+| \\\ | Back slash |
+| \\d | All numbers. Same as [0-9] |
+| \\D | All letters except numbers. Same as [^0-9] |
+| \\s | Blank space. Same as [ \t\n\r\f\v] |
+| \\S | All letters except blank space. Same as [^ \t\n\r\f\v] |
+| \\w | Alphabet or number. Same as [a-zA-Z0-9] |
+| \\W | All letters except alphabet or numbers. Same as [^a-zA-Z0-9] |
+
