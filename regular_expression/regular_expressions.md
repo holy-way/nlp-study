@@ -25,7 +25,7 @@ Study Reference : https://wikidocs.net/217240
 
 | Grammar | Meaning |
 | ----- | ----- |
-| \\\ | Back slash |
+| \\\\ | Back slash |
 | \\d | All numbers. Same as [0-9] |
 | \\D | All letters except numbers. Same as [^0-9] |
 | \\s | Blank space. Same as [ \t\n\r\f\v] |
