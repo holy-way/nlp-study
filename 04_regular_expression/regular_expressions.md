@@ -26,10 +26,10 @@ Study Reference : https://wikidocs.net/217240
 | Grammar | Meaning |
 | ----- | ----- |
 | \\\\\ | Back slash |
-| \\d | All numbers. Same as [0-9] |
-| \\D | All letters except numbers. Same as [^0-9] |
-| \\s | Blank space. Same as [ \t\n\r\f\v] |
-| \\S | All letters except blank space. Same as [^ \t\n\r\f\v] |
-| \\w | Alphabet or number. Same as [a-zA-Z0-9] |
-| \\W | All letters except alphabet or numbers. Same as [^a-zA-Z0-9] |
+| \\\\d | All numbers. Same as [0-9] |
+| \\\\D | All letters except numbers. Same as [^0-9] |
+| \\\\s | Blank space. Same as [ \t\n\r\f\v] |
+| \\\\S | All letters except blank space. Same as [^ \t\n\r\f\v] |
+| \\\\w | Alphabet or number. Same as [a-zA-Z0-9] |
+| \\\\W | All letters except alphabet or numbers. Same as [^a-zA-Z0-9] |
 
