@@ -35,6 +35,7 @@ Study Reference : https://wikidocs.net/217240
 
 ### 2. Module Function
 | Function | Description |
+| ----- | ----- |
 | re.compile() | Compile regular expression. Send it to python. For the frequently used pattern, compiling beforehand is good in speed and convenience. |
 | re.search() | Search in the total sentence whether the expression matches. | 
 | re.match() | Check if the start of the sentence matches the expression. |
@@ -96,3 +97,4 @@ Study Reference : https://wikidocs.net/217240
 
 ## 10. [^letter]
 * Match if not included
+
